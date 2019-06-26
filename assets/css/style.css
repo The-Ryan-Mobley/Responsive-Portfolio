@@ -233,7 +233,6 @@ body {
     .work{
       width:45%;
     }
-    
   }
   @media only screen and (max-width: 768px){
     #main-container{
@@ -243,17 +242,14 @@ body {
       margin-left:3%;
     }
     nav{
-    
       float:right;
       margin-top:0px;
       margin-right:3%;
       padding-top:3.5%;
     }
     .work{
-      
       width:47%;
     }
-
   }
   @media only screen and (max-width: 640px){
     #logo{
@@ -271,12 +267,9 @@ body {
     }
     .main-section{
       margin: 0 -2% 0%;
-
     }
     #main-container{
       padding-top:0px;
-      
-  
     }
     .main-section{
       position:static;
